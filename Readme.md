@@ -1,7 +1,7 @@
 ## PermLLM: Learnable Channel Permutation for N:M Sparse Large Language Models
 
 
-Lancheng Zou<sup>1</sup>, Shuo Yin<sup>4</sup>, Zehua Pei<sup>1</sup>, Tsung-Yi Ho<sup>1</sup>, Farzan Farnia<sup>1</sup>, Bei Yu<sup>1</sup>
+Lancheng Zou<sup>1</sup>, Shuo Yin<sup>1</sup>, Zehua Pei<sup>1</sup>, Tsung-Yi Ho<sup>1</sup>, Farzan Farnia<sup>1</sup>, Bei Yu<sup>1</sup>
 
 <sup>1</sup> The Chinese University of Hong Kong 
  
