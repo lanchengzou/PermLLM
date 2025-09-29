@@ -49,7 +49,7 @@ def main():
     parser.add_argument("--sparsity_type", type=str, default="2:4", help="Sparsity type, choose from unstructured, 4:8, 1:4, 2:4, 3:4. \
                         Please choose from the corresponding sparsity ratio")
     parser.add_argument("--prune_method", type=str, choices=["magnitude", "wanda", "sparsegpt", "ria", "permllm"])
-    parser.add_argument("--pruning", type=str, choices=["ria", "wanda"], default="wanda", help="zero-shot pruning method for PermLLM")
+    parser.add_argument("--pruning", type=str, choices=["ria", "wanda"], default="wanda", help="one-shot pruning method for PermLLM")
     parser.add_argument("--cache_dir", default="llm_weights", type=str )
     parser.add_argument('--save', action="store_true")
     parser.add_argument('--save_model', type=str, default=None, help='Path to save the pruned model.')

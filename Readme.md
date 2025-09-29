@@ -52,7 +52,7 @@ python main.py \
 	--save \
 ```
 
-Here the pruning can be replaced with ria, which is the zero-shot pruning metric for PermLLM.
+Here the pruning can be replaced with ria, which is the onw-shot pruning metric for PermLLM.
 
 
 
